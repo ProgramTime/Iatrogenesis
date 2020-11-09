@@ -1,0 +1,1 @@
+Transition(room_goto(A2_1));
